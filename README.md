@@ -1,7 +1,7 @@
 
 # T4 – Contador de Palavras Eficiente (Hash + AVL)
 
-**Estruturas de Dados - UNIRIO ED 2025.2**
+**Estruturas de Dados - UNIRIO**
 
 Contador de frequência usando **Hash** (O(1)) + **AVL** (O(log n))
 
@@ -57,3 +57,7 @@ AVL: Ordenação balanceada O(log n)
 
 Autores:
 Gabriel Viola & Lucas Martins
+
+Disclaimer: o projeto originalmente é para ser executado com gradlew, porém o Trabalho na universidade não foi claro quanto essa parte.
+A maneira mais fácil de executar é a apresentada nesse README
+
